@@ -1,0 +1,6 @@
+C:\Users\HP 255\source\repos\ReiterSzamologep\bin\Debug\ReiterSzamologep.exe.config
+C:\Users\HP 255\source\repos\ReiterSzamologep\bin\Debug\ReiterSzamologep.exe
+C:\Users\HP 255\source\repos\ReiterSzamologep\bin\Debug\ReiterSzamologep.pdb
+C:\Users\HP 255\source\repos\ReiterSzamologep\obj\Debug\ReiterSzamologep.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\ReiterSzamologep\obj\Debug\ReiterSzamologep.exe
+C:\Users\HP 255\source\repos\ReiterSzamologep\obj\Debug\ReiterSzamologep.pdb
